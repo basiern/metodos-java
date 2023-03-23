@@ -2,21 +2,21 @@
 
 🔸 Método é um bloco de código que teve uma função atribuída a ela, é uma maneira de executar uma tarefa.
 
-🔸O mínimo necessáio para declarar uma meta é assim:
+🔸O mínimo necessário para declarar uma meta é assim:
 
-🔹 Retorno NomeNoInfinitivo Corpo
+> Retorno NomeNoInfinitivo Corpo
 
 🔸Quantos aos **obrigatórios**, devem ser:
-* Retorno: O que o método irá retornar, pode ser void, int, double...
+* Retorno: O que o método irá retornar, pode ser *void, int, double...*
 * Nome
 * Corpo do método
 
 🔸 Quantos ao atributos **acessórios** (não obrigatórios) ao método, podem ser:
-* Visibilidade: public, protected ou private 
-* Tipo: Concreto ou abstrato
-* Modificador: static ou final 
-* Parâmetro: Variável que vai receber um valor
-* Exceções: Exceções que o código pode lançar
+* Visibilidade: *public, protected ou private*
+* Tipo: *Concreto ou abstrato*
+* Modificador: *static ou final* 
+* Parâmetro: *Variável que vai receber um valor*
+* Exceções: *Exceções que o código pode lançar*
 
 ### Convenção de código escrita
 
