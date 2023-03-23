@@ -2,7 +2,7 @@
 
 🔸 Método é um bloco de código que teve uma função atribuída a ela, é uma maneira de executar uma tarefa.
 
-🔸O mínimo necessário para declarar uma meta é assim:
+🔸O mínimo necessário para declarar um método é assim:
 
 > Retorno NomeNoInfinitivo Corpo
 
